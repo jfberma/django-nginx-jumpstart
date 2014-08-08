@@ -9,7 +9,7 @@ Get Started
 * Duplicate this repo:
 ```
 git clone --bare git@github.com:jfberma/django-nginx-jumpstart.git
-cd django-nginx-jumpstart
+cd django-nginx-jumpstart.git
 git push --mirror [YOUR_NEW_REPO_URL]
 ```
 
