@@ -28,4 +28,5 @@ Recommendations
 ===============
 
 * If you're using this template for multiple enivroments, after you mirror the repo, add buildout.cfg to .gitignore
+* If you run into a bootstrap replated version error at the end of install, try running ```python bootstrap.py -v 2.1.1```
 
